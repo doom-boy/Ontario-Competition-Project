@@ -1,0 +1,1123 @@
+Year,Month,Airline,Passengers
+2018,January,Aeromexico,3048
+2018,January,Alaska Airlines,25704
+2018,January,American Airlines,68271
+2018,January,China Airlines,0
+2018,January,Delta Air Lines,13904
+2018,January,Frontier Airlines,15275
+2018,January,Southwest Airlines,207696
+2018,January,United Airlines,31385
+2018,January,Volaris,9694
+2018,January,All Others,0
+2018,February,Aeromexico,0
+2018,February,Alaska Airlines,26598
+2018,February,American Airlines,63970
+2018,February,China Airlines,0
+2018,February,Delta Air Lines,13604
+2018,February,Frontier Airlines,15745
+2018,February,Southwest Airlines,197700
+2018,February,United Airlines,29201
+2018,February,Volaris,7006
+2018,February,All Others,59
+2018,March,Aeromexico,0
+2018,March,Alaska Airlines,36659
+2018,March,American Airlines,76087
+2018,March,China Airlines,3848
+2018,March,Delta Air Lines,14236
+2018,March,Frontier Airlines,18396
+2018,March,Southwest Airlines,226280
+2018,March,United Airlines,32392
+2018,March,Volaris,6817
+2018,March,All Others,284
+2018,April,Aeromexico,0
+2018,April,Alaska Airlines,37240
+2018,April,American Airlines,65504
+2018,April,China Airlines,12229
+2018,April,Delta Air Lines,11822
+2018,April,Frontier Airlines,15760
+2018,April,Southwest Airlines,227578
+2018,April,United Airlines,37377
+2018,April,Volaris,7173
+2018,April,All Others,1637
+2018,May,Aeromexico,0
+2018,May,Alaska Airlines,34707
+2018,May,American Airlines,69732
+2018,May,China Airlines,12884
+2018,May,Delta Air Lines,12047
+2018,May,Frontier Airlines,18571
+2018,May,Southwest Airlines,239714
+2018,May,United Airlines,41618
+2018,May,Volaris,8199
+2018,May,All Others,1502
+2018,June,Aeromexico,0
+2018,June,Alaska Airlines,33666
+2018,June,American Airlines,81185
+2018,June,China Airlines,15366
+2018,June,Delta Air Lines,12046
+2018,June,Frontier Airlines,19623
+2018,June,Southwest Airlines,230895
+2018,June,United Airlines,33645
+2018,June,Volaris,8134
+2018,June,All Others,1330
+2018,July,Aeromexico,0
+2018,July,Alaska Airlines,36577
+2018,July,American Airlines,85132
+2018,July,China Airlines,14917
+2018,July,Delta Air Lines,16251
+2018,July,Frontier Airlines,19943
+2018,July,JetBlue,0
+2018,July,Southwest Airlines,227991
+2018,July,United Airlines,36701
+2018,July,Volaris,8400
+2018,July,All Others,2387
+2018,August,Aeromexico,0
+2018,August,Alaska Airlines,36640
+2018,August,American Airlines,83637
+2018,August,China Airlines,15179
+2018,August,Delta Air Lines,18289
+2018,August,Frontier Airlines,24988
+2018,August,JetBlue,0
+2018,August,Southwest Airlines,232407
+2018,August,United Airlines,39237
+2018,August,Volaris,7160
+2018,August,All Others,492
+2018,September,Aeromexico,0
+2018,September,Alaska Airlines,31915
+2018,September,American Airlines,68820
+2018,September,China Airlines,10833
+2018,September,Delta Air Lines,13762
+2018,September,Frontier Airlines,24908
+2018,September,JetBlue,0
+2018,September,Southwest Airlines,220937
+2018,September,United Airlines,35280
+2018,September,Volaris,7009
+2018,September,All Others,380
+2018,October,Aeromexico,0
+2018,October,Alaska Airlines,33369
+2018,October,American Airlines,73171
+2018,October,China Airlines,13828
+2018,October,Delta Air Lines,16755
+2018,October,Frontier Airlines,28007
+2018,October,JetBlue,6844
+2018,October,Southwest Airlines,240581
+2018,October,United Airlines,35269
+2018,October,Volaris,7448
+2018,October,All Others,0
+2018,November,Aeromexico,0
+2018,November,Alaska Airlines,29905
+2018,November,American Airlines,71808
+2018,November,China Airlines,15764
+2018,November,Delta Air Lines,15905
+2018,November,Frontier Airlines,23610
+2018,November,JetBlue,8204
+2018,November,Southwest Airlines,246034
+2018,November,United Airlines,36489
+2018,November,Volaris,8303
+2018,November,All Others,0
+2018,December,Aeromexico,0
+2018,December,Alaska Airlines,28465
+2018,December,American Airlines,74168
+2018,December,China Airlines,15544
+2018,December,Delta Air Lines,15118
+2018,December,Frontier Airlines,18591
+2018,December,JetBlue,8410
+2018,December,Southwest Airlines,240503
+2018,December,United Airlines,31274
+2018,December,Volaris,9007
+2018,December,All Others,93
+2019,January,Alaska Airlines,21985
+2019,January,American Airlines,70958
+2019,January,China Airlines,17554
+2019,January,Delta Air Lines,15439
+2019,January,Frontier Airlines,15277
+2019,January,JetBlue,7661
+2019,January,Southwest Airlines,211782
+2019,January,United Airlines,26125
+2019,January,Volaris,9375
+2019,January,All Others,50
+2019,February,Alaska Airlines,18481
+2019,February,American Airlines,67458
+2019,February,China Airlines,12635
+2019,February,Delta Air Lines,14863
+2019,February,Frontier Airlines,14134
+2019,February,JetBlue,6966
+2019,February,Southwest Airlines,198557
+2019,February,United Airlines,22746
+2019,February,Volaris,7586
+2019,February,All Others,0
+2019,March,Alaska Airlines,31179
+2019,March,American Airlines,75795
+2019,March,China Airlines,15347
+2019,March,Delta Air Lines,17773
+2019,March,Frontier Airlines,16906
+2019,March,JetBlue,7762
+2019,March,Southwest Airlines,230449
+2019,March,United Airlines,31864
+2019,March,Volaris,8914
+2019,March,All Others,712
+2019,April,Alaska Airlines,35726
+2019,April,American Airlines,76716
+2019,April,China Airlines,16045
+2019,April,Delta Air Lines,18883
+2019,April,Frontier Airlines,17106
+2019,April,JetBlue,8403
+2019,April,Southwest Airlines,229208
+2019,April,United Airlines,34657
+2019,April,Volaris,8204
+2019,April,All Others,0
+2019,May,Alaska Airlines,36898
+2019,May,American Airlines,88380
+2019,May,China Airlines,16077
+2019,May,Delta Air Lines,25277
+2019,May,Frontier Airlines,15100
+2019,May,JetBlue,8740
+2019,May,Southwest Airlines,236747
+2019,May,United Airlines,37493
+2019,May,Volaris,10090
+2019,May,All Others,598
+2019,June,Alaska Airlines,37151
+2019,June,American Airlines,85634
+2019,June,China Airlines,16810
+2019,June,Delta Air Lines,28435
+2019,June,Frontier Airlines,14900
+2019,June,JetBlue,8656
+2019,June,Southwest Airlines,235553
+2019,June,United Airlines,39119
+2019,June,Volaris,9660
+2019,June,All Others,1763
+2019,July,Alaska Airlines,38320
+2019,July,American Airlines,87984
+2019,July,China Airlines,16992
+2019,July,Delta Air Lines,33402
+2019,July,Frontier Airlines,26644
+2019,July,JetBlue,8515
+2019,July,Southwest Airlines,232035
+2019,July,United Airlines,40748
+2019,July,Volaris,9984
+2019,July,All Others,342
+2019,August,Alaska Airlines,36811
+2019,August,American Airlines,90847
+2019,August,China Airlines,16303
+2019,August,Delta Air Lines,34092
+2019,August,Frontier Airlines,26256
+2019,August,JetBlue,8787
+2019,August,Southwest Airlines,241390
+2019,August,United Airlines,40480
+2019,August,Volaris,9017
+2019,August,All Others,119
+2019,September,Alaska Airlines,28886
+2019,September,American Airlines,77514
+2019,September,China Airlines,14518
+2019,September,Delta Air Lines,29036
+2019,September,Frontier Airlines,24168
+2019,September,JetBlue,5794
+2019,September,Southwest Airlines,241545
+2019,September,United Airlines,36607
+2019,September,Volaris,8637
+2019,September,All Others,2619
+2019,October,Alaska Airlines,32651
+2019,October,American Airlines,83260
+2019,October,China Airlines,15005
+2019,October,Delta Air Lines,32859
+2019,October,Frontier Airlines,29880
+2019,October,JetBlue,5983
+2019,October,Southwest Airlines,251859
+2019,October,United Airlines,41892
+2019,October,Volaris,9227
+2019,October,All Others,1934
+2019,November,Alaska Airlines,39922
+2019,November,American Airlines,82194
+2019,November,China Airlines,17203
+2019,November,Delta Air Lines,29990
+2019,November,Frontier Airlines,25515
+2019,November,JetBlue,9380
+2019,November,Southwest Airlines,249659
+2019,November,United Airlines,37969
+2019,November,Volaris,8983
+2019,November,All Others,824
+2019,December,Alaska Airlines,46638
+2019,December,American Airlines,89285
+2019,December,China Airlines,18455
+2019,December,Delta Air Lines,32120
+2019,December,Frontier Airlines,19246
+2019,December,JetBlue,8580
+2019,December,Southwest Airlines,254909
+2019,December,United Airlines,34308
+2019,December,Volaris,11248
+2019,December,All Others,0
+2020,January,Alaska Airlines,38527
+2020,January,American Airlines,81848
+2020,January,China Airlines,20269
+2020,January,Delta Air Lines,32120
+2020,January,Frontier Airlines,11231
+2020,January,JetBlue,5822
+2020,January,Southwest Airlines,219289
+2020,January,United Airlines,34580
+2020,January,Volaris,10551
+2020,January,All Others,302
+2020,February,Alaska Airlines,37246
+2020,February,American Airlines,77834
+2020,February,China Airlines,12339
+2020,February,Delta Air Lines,28520
+2020,February,Frontier Airlines,17582
+2020,February,JetBlue,5198
+2020,February,Southwest Airlines,200244
+2020,February,United Airlines,32458
+2020,February,Volaris,8530
+2020,February,All Others,0
+2020,March,Alaska Airlines,18936
+2020,March,American Airlines,44501
+2020,March,China Airlines,5606
+2020,March,Delta Air Lines,18093
+2020,March,Frontier Airlines,11858
+2020,March,JetBlue,4505
+2020,March,Southwest Airlines,105974
+2020,March,United Airlines,17562
+2020,March,Volaris,6689
+2020,March,All Others,52
+2020,April,Alaska Airlines,2177
+2020,April,American Airlines,7941
+2020,April,China Airlines,0
+2020,April,Delta Air Lines,3158
+2020,April,Frontier Airlines,977
+2020,April,JetBlue,47
+2020,April,Southwest Airlines,13324
+2020,April,United Airlines,1212
+2020,April,Volaris,0
+2020,April,All Others,80
+2020,May,Alaska Airlines,6387
+2020,May,American Airlines,20294
+2020,May,China Airlines,0
+2020,May,Delta Air Lines,6145
+2020,May,Frontier Airlines,3279
+2020,May,JetBlue,0
+2020,May,Southwest Airlines,30160
+2020,May,United Airlines,4031
+2020,May,Volaris,0
+2020,May,All Others,0
+2020,June,Alaska Airlines,9290
+2020,June,American Airlines,30244
+2020,June,China Airlines,0
+2020,June,Delta Air Lines,10507
+2020,June,Frontier Airlines,6572
+2020,June,JetBlue,0
+2020,June,Southwest Airlines,79938
+2020,June,United Airlines,3777
+2020,June,Volaris,1400
+2020,June,All Others,301
+2020,July,Alaska Airlines,14293
+2020,July,American Airlines,38973
+2020,July,China Airlines,0
+2020,July,Delta Air Lines,16142
+2020,July,Frontier Airlines,5016
+2020,July,JetBlue,0
+2020,July,Southwest Airlines,88794
+2020,July,United Airlines,9386
+2020,July,Volaris,3616
+2020,July,All Others,1
+2020,August,Alaska Airlines,12864
+2020,August,American Airlines,45145
+2020,August,China Airlines,0
+2020,August,Delta Air Lines,17674
+2020,August,Frontier Airlines,7625
+2020,August,JetBlue,0
+2020,August,Southwest Airlines,95701
+2020,August,United Airlines,14133
+2020,August,Volaris,3389
+2020,August,All Others,0
+2020,September,Alaska Airlines,12750
+2020,September,American Airlines,44186
+2020,September,China Airlines,0
+2020,September,Delta Air Lines,18508
+2020,September,Frontier Airlines,5281
+2020,September,JetBlue,0
+2020,September,Southwest Airlines,92881
+2020,September,United Airlines,17825
+2020,September,Volaris,3570
+2020,September,All Others,36
+2020,October,Alaska Airlines,19690
+2020,October,American Airlines,48259
+2020,October,China Airlines,0
+2020,October,Delta Air Lines,25815
+2020,October,Frontier Airlines,4848
+2020,October,JetBlue,0
+2020,October,Southwest Airlines,95310
+2020,October,United Airlines,19851
+2020,October,Volaris,4149
+2020,October,All Others,0
+2020,November,Alaska Airlines,19510
+2020,November,American Airlines,45383
+2020,November,China Airlines,0
+2020,November,Delta Air Lines,25086
+2020,November,Frontier Airlines,5775
+2020,November,JetBlue,0
+2020,November,Southwest Airlines,90258
+2020,November,United Airlines,19514
+2020,November,Volaris,7200
+2020,November,All Others,0
+2020,December,Alaska Airlines,14916
+2020,December,American Airlines,40565
+2020,December,China Airlines,0
+2020,December,Delta Air Lines,25801
+2020,December,Frontier Airlines,3996
+2020,December,JetBlue,0
+2020,December,Southwest Airlines,82569
+2020,December,United Airlines,14932
+2020,December,Volaris,7755
+2020,December,All Others,0
+2021,January,Alaska Airlines,12108
+2021,January,American Airlines,35887
+2021,January,China Airlines,0
+2021,January,Delta Air Lines,20597
+2021,January,Frontier Airlines,2654
+2021,January,JetBlue,0
+2021,January,Southwest Airlines,62364
+2021,January,United Airlines,11775
+2021,January,Volaris,6475
+2021,January,All Others,0
+2021,February,Alaska Airlines,13948
+2021,February,American Airlines,31374
+2021,February,China Airlines,0
+2021,February,Delta Air Lines,20453
+2021,February,Frontier Airlines,6708
+2021,February,JetBlue,0
+2021,February,Southwest Airlines,66732
+2021,February,United Airlines,10995
+2021,February,Volaris,2021
+2021,February,All Others,62
+2021,March,Alaska Airlines,21810
+2021,March,American Airlines,54337
+2021,March,China Airlines,0
+2021,March,Delta Air Lines,30360
+2021,March,Frontier Airlines,21489
+2021,March,Hawaiian Airlines,3007
+2021,March,JetBlue,0
+2021,March,Southwest Airlines,110336
+2021,March,United Airlines,15498
+2021,March,Volaris,2654
+2021,March,All Others,0
+2021,April,Alaska Airlines,29918
+2021,April,American Airlines,60437
+2021,April,China Airlines,0
+2021,April,Delta Air Lines,35425
+2021,April,Frontier Airlines,19143
+2021,April,Hawaiian Airlines,5664
+2021,April,JetBlue,0
+2021,April,Southwest Airlines,127376
+2021,April,United Airlines,17223
+2021,April,Volaris,3598
+2021,April,All Others,0
+2021,May,Alaska Airlines,36081
+2021,May,American Airlines,74239
+2021,May,China Airlines,0
+2021,May,Delta Air Lines,50604
+2021,May,Frontier Airlines,26700
+2021,May,Hawaiian Airlines,7491
+2021,May,JetBlue,0
+2021,May,Southwest Airlines,143135
+2021,May,United Airlines,17398
+2021,May,Volaris,11289
+2021,May,All Others,0
+2021,June,Alaska Airlines,43710
+2021,June,American Airlines,93726
+2021,June,China Airlines,327
+2021,June,Delta Air Lines,53330
+2021,June,Frontier Airlines,44019
+2021,June,Hawaiian Airlines,10578
+2021,June,JetBlue,4437
+2021,June,Southwest Airlines,149988
+2021,June,United Airlines,19646
+2021,June,Volaris,11324
+2021,June,All Others,0
+2021,July,Alaska Airlines,38171
+2021,July,American Airlines,98753
+2021,July,Avianca,2755
+2021,July,China Airlines,427
+2021,July,Delta Air Lines,59398
+2021,July,Frontier Airlines,58302
+2021,July,Hawaiian Airlines,11019
+2021,July,JetBlue,6502
+2021,July,Southwest Airlines,163944
+2021,July,United Airlines,26206
+2021,July,Volaris,12489
+2021,July,All Others,0
+2021,August,Alaska Airlines,45034
+2021,August,American Airlines,89982
+2021,August,Avianca,2423
+2021,August,China Airlines,387
+2021,August,Delta Air Lines,59211
+2021,August,Frontier Airlines,58881
+2021,August,Hawaiian Airlines,10480
+2021,August,JetBlue,5718
+2021,August,Southwest Airlines,150774
+2021,August,United Airlines,33721
+2021,August,Volaris,10790
+2021,August,All Others,221
+2021,September,Alaska Airlines,37403
+2021,September,American Airlines,85199
+2021,September,Avianca,2143
+2021,September,China Airlines,216
+2021,September,Delta Air Lines,51490
+2021,September,Frontier Airlines,51679
+2021,September,Hawaiian Airlines,8125
+2021,September,JetBlue,4583
+2021,September,Southwest Airlines,167139
+2021,September,United Airlines,35329
+2021,September,Volaris,9868
+2021,September,All Others,0
+2021,October,Alaska Airlines,44539
+2021,October,American Airlines,95429
+2021,October,Avianca,2493
+2021,October,China Airlines,236
+2021,October,Delta Air Lines,58910
+2021,October,Frontier Airlines,53822
+2021,October,Hawaiian Airlines,8687
+2021,October,JetBlue,6062
+2021,October,Southwest Airlines,184118
+2021,October,United Airlines,30068
+2021,October,Volaris,10363
+2021,October,All Others,0
+2021,November,aha!,317
+2021,November,Alaska Airlines,41870
+2021,November,American Airlines,88360
+2021,November,Avianca,2715
+2021,November,China Airlines,244
+2021,November,Delta Air Lines,52053
+2021,November,Frontier Airlines,44959
+2021,November,Hawaiian Airlines,8598
+2021,November,JetBlue,7912
+2021,November,Southwest Airlines,185100
+2021,November,United Airlines,32062
+2021,November,Volaris,11096
+2021,November,All Others,533
+2021,December,aha!,559
+2021,December,Alaska Airlines,39016
+2021,December,American Airlines,78393
+2021,December,Avianca,4368
+2021,December,China Airlines,277
+2021,December,Delta Air Lines,50192
+2021,December,Frontier Airlines,53785
+2021,December,Hawaiian Airlines,9322
+2021,December,JetBlue,9201
+2021,December,Southwest Airlines,176522
+2021,December,United Airlines,33184
+2021,December,Volaris,12179
+2021,December,All Others,153
+2022,January,aha!,244
+2022,January,Alaska Airlines,28675
+2022,January,American Airlines,57521
+2022,January,Avianca,4769
+2022,January,China Airlines,405
+2022,January,Delta Air Lines,44096
+2022,January,Frontier Airlines,26776
+2022,January,Hawaiian Airlines,7287
+2022,January,JetBlue,4542
+2022,January,Southwest Airlines,132478
+2022,January,United Airlines,21632
+2022,January,Volaris,10464
+2022,January,All Others,847
+2022,February,aha!,392
+2022,February,Alaska Airlines,35285
+2022,February,American Airlines,51881
+2022,February,Avianca,3155
+2022,February,China Airlines,516
+2022,February,Delta Air Lines,44871
+2022,February,Frontier Airlines,24632
+2022,February,Hawaiian Airlines,7392
+2022,February,JetBlue,4092
+2022,February,Southwest Airlines,152141
+2022,February,United Airlines,26312
+2022,February,Volaris,7211
+2022,February,All Others,0
+2022,March,aha!,737
+2022,March,Alaska Airlines,42952
+2022,March,American Airlines,65896
+2022,March,Avianca,3894
+2022,March,China Airlines,884
+2022,March,Delta Air Lines,63253
+2022,March,Frontier Airlines,35025
+2022,March,Hawaiian Airlines,9656
+2022,March,JetBlue,8089
+2022,March,Southwest Airlines,180422
+2022,March,United Airlines,33501
+2022,March,Volaris,9714
+2022,March,All Others,0
+2022,April,aha!,240
+2022,April,Alaska Airlines,38727
+2022,April,American Airlines,65060
+2022,April,Avianca,2934
+2022,April,China Airlines,788
+2022,April,Delta Air Lines,63622
+2022,April,Frontier Airlines,42967
+2022,April,Hawaiian Airlines,10388
+2022,April,JetBlue,9448
+2022,April,Southwest Airlines,197690
+2022,April,United Airlines,33158
+2022,April,Volaris,10719
+2022,April,All Others,0
+2022,May,aha!,576
+2022,May,Alaska Airlines,37255
+2022,May,American Airlines,72424
+2022,May,Avianca,3533
+2022,May,China Airlines,1359
+2022,May,Delta Air Lines,68214
+2022,May,Frontier Airlines,59226
+2022,May,Hawaiian Airlines,10376
+2022,May,JetBlue,8846
+2022,May,Southwest Airlines,203717
+2022,May,United Airlines,41608
+2022,May,Volaris,11951
+2022,May,All Others,0
+2022,June,aha!,880
+2022,June,Alaska Airlines,38237
+2022,June,American Airlines,76794
+2022,June,Avianca,3377
+2022,June,China Airlines,1460
+2022,June,Delta Air Lines,62121
+2022,June,Frontier Airlines,52328
+2022,June,Hawaiian Airlines,10961
+2022,June,JetBlue,10162
+2022,June,Southwest Airlines,207556
+2022,June,United Airlines,37652
+2022,June,Volaris,12697
+2022,June,All Others,0
+2022,July,aha!,986
+2022,July,Alaska Airlines,32258
+2022,July,American Airlines,77646
+2022,July,Avianca,3444
+2022,July,China Airlines,1603
+2022,July,Delta Air Lines,62784
+2022,July,Frontier Airlines,51401
+2022,July,Hawaiian Airlines,11095
+2022,July,JetBlue,10337
+2022,July,Southwest Airlines,217446
+2022,July,United Airlines,38472
+2022,July,Volaris,12670
+2022,July,All Others,205
+2022,August,aha!,715
+2022,August,Alaska Airlines,34267
+2022,August,American Airlines,78559
+2022,August,Avianca,3027
+2022,August,China Airlines,3160
+2022,August,Delta Air Lines,65950
+2022,August,Frontier Airlines,56308
+2022,August,Hawaiian Airlines,10355
+2022,August,JetBlue,9526
+2022,August,Southwest Airlines,205220
+2022,August,United Airlines,36321
+2022,August,Volaris,7817
+2022,August,All Others,50
+2022,September,aha!,0
+2022,September,Alaska Airlines,37589
+2022,September,American Airlines,75262
+2022,September,Avianca,4065
+2022,September,China Airlines,2456
+2022,September,Delta Air Lines,61447
+2022,September,Frontier Airlines,63472
+2022,September,Hawaiian Airlines,9938
+2022,September,JetBlue,10201
+2022,September,Southwest Airlines,209413
+2022,September,United Airlines,34654
+2022,September,Volaris,7884
+2022,September,All Others,564
+2022,October,aha!,0
+2022,October,Alaska Airlines,44636
+2022,October,American Airlines,71417
+2022,October,Avianca,3559
+2022,October,China Airlines,3814
+2022,October,Delta Air Lines,62609
+2022,October,Frontier Airlines,76220
+2022,October,Hawaiian Airlines,10428
+2022,October,JetBlue,10823
+2022,October,Southwest Airlines,215499
+2022,October,United Airlines,33230
+2022,October,Volaris,8353
+2022,October,All Others,1142
+2022,November,aha!,0
+2022,November,Alaska Airlines,39342
+2022,November,American Airlines,73715
+2022,November,Avianca,3442
+2022,November,China Airlines,6458
+2022,November,Delta Air Lines,61600
+2022,November,Frontier Airlines,62100
+2022,November,Hawaiian Airlines,9658
+2022,November,JetBlue,10070
+2022,November,Southwest Airlines,205511
+2022,November,United Airlines,28992
+2022,November,Volaris,10398
+2022,November,All Others,759
+2022,December,aha!,0
+2022,December,Alaska Airlines,31345
+2022,December,American Airlines,82177
+2022,December,Avianca,3135
+2022,December,China Airlines,8777
+2022,December,Delta Air Lines,63309
+2022,December,Frontier Airlines,60555
+2022,December,Hawaiian Airlines,10056
+2022,December,JetBlue,10859
+2022,December,Southwest Airlines,167863
+2022,December,United Airlines,28293
+2022,December,Volaris,10933
+2022,December,All Others,0
+2023,January,aha!,0
+2023,January,Alaska Airlines,29436
+2023,January,American Airlines,65405
+2023,January,Avianca,2513
+2023,January,China Airlines,9747
+2023,January,Delta Air Lines,55666
+2023,January,Frontier Airlines,35824
+2023,January,Hawaiian Airlines,9972
+2023,January,JetBlue,8363
+2023,January,Southwest Airlines,170442
+2023,January,United Airlines,29721
+2023,January,Volaris,11457
+2023,January,All Others,322
+2023,February,aha!,0
+2023,February,Alaska Airlines,26407
+2023,February,American Airlines,69980
+2023,February,Avianca,3683
+2023,February,China Airlines,8149
+2023,February,Delta Air Lines,48517
+2023,February,Frontier Airlines,38651
+2023,February,Hawaiian Airlines,9056
+2023,February,JetBlue,5667
+2023,February,Southwest Airlines,166235
+2023,February,United Airlines,26342
+2023,February,Volaris,9844
+2023,February,All Others,393
+2023,March,aha!,0
+2023,March,Alaska Airlines,34795
+2023,March,American Airlines,81529
+2023,March,Avianca,4303
+2023,March,China Airlines,10061
+2023,March,Delta Air Lines,63043
+2023,March,Frontier Airlines,50215
+2023,March,Hawaiian Airlines,10402
+2023,March,JetBlue,8172
+2023,March,Southwest Airlines,199154
+2023,March,United Airlines,29121
+2023,March,Volaris,10377
+2023,March,All Others,78
+2023,April,aha!,0
+2023,April,Alaska Airlines,41571
+2023,April,American Airlines,84023
+2023,April,Avianca,3898
+2023,April,China Airlines,18210
+2023,April,Delta Air Lines,65797
+2023,April,Frontier Airlines,55809
+2023,April,Hawaiian Airlines,10493
+2023,April,JetBlue,9139
+2023,April,Southwest Airlines,195404
+2023,April,United Airlines,31637
+2023,April,Volaris,12327
+2023,April,All Others,2425
+2023,May,aha!,0
+2023,May,Alaska Airlines,44626
+2023,May,American Airlines,82751
+2023,May,Avianca,3480
+2023,May,China Airlines,17956
+2023,May,Delta Air Lines,72282
+2023,May,Frontier Airlines,59386
+2023,May,Hawaiian Airlines,10143
+2023,May,JetBlue,10959
+2023,May,Southwest Airlines,212569
+2023,May,United Airlines,29907
+2023,May,Volaris,12874
+2023,May,All Others,0
+2023,June,aha!,0
+2023,June,Alaska Airlines,47117
+2023,June,American Airlines,92504
+2023,June,Avianca,6336
+2023,June,China Airlines,18209
+2023,June,Delta Air Lines,66840
+2023,June,Frontier Airlines,61429
+2023,June,Hawaiian Airlines,10805
+2023,June,JetBlue,10278
+2023,June,Southwest Airlines,204578
+2023,June,United Airlines,27995
+2023,June,Volaris,12814
+2023,June,All Others,542
+2023,July,aha!,0
+2023,July,Alaska Airlines,49891
+2023,July,American Airlines,97480
+2023,July,Avianca,7401
+2023,July,China Airlines,17841
+2023,July,Delta Air Lines,65485
+2023,July,Frontier Airlines,69621
+2023,July,Hawaiian Airlines,11429
+2023,July,JetBlue,10342
+2023,July,Northern Pacific,648
+2023,July,Southwest Airlines,201963
+2023,July,United Airlines,32023
+2023,July,Volaris,14253
+2023,July,Volaris El Salvador,4056
+2023,July,All Others,142
+2023,August,aha!,0
+2023,August,Alaska Airlines,48293
+2023,August,American Airlines,96163
+2023,August,Avianca,6580
+2023,August,China Airlines,17533
+2023,August,Delta Air Lines,68342
+2023,August,Frontier Airlines,59289
+2023,August,Hawaiian Airlines,10965
+2023,August,JetBlue,10238
+2023,August,Northern Pacific,1669
+2023,August,Southwest Airlines,198074
+2023,August,United Airlines,34319
+2023,August,Volaris,12756
+2023,August,Volaris El Salvador,3287
+2023,August,All Others,0
+2023,September,aha!,0
+2023,September,Alaska Airlines,43395
+2023,September,American Airlines,88073
+2023,September,Avianca,5132
+2023,September,China Airlines,16369
+2023,September,Delta Air Lines,59472
+2023,September,Frontier Airlines,72862
+2023,September,Hawaiian Airlines,10128
+2023,September,JetBlue,8490
+2023,September,Northern Pacific,1592
+2023,September,Southwest Airlines,201085
+2023,September,United Airlines,34586
+2023,September,Volaris,12540
+2023,September,Volaris El Salvador,2135
+2023,September,All Others,354
+2023,October,aha!,0
+2023,October,Alaska Airlines,44478
+2023,October,American Airlines,86845
+2023,October,Avianca,4965
+2023,October,China Airlines,16853
+2023,October,Delta Air Lines,60097
+2023,October,Frontier Airlines,88500
+2023,October,Hawaiian Airlines,10401
+2023,October,JetBlue,10081
+2023,October,New Pacific,497
+2023,October,Southwest Airlines,228397
+2023,October,United Airlines,38909
+2023,October,Volaris,13937
+2023,October,Volaris El Salvador,2258
+2023,October,All Others,279
+2023,November,aha!,0
+2023,November,Alaska Airlines,42507
+2023,November,American Airlines,87007
+2023,November,Avianca,5985
+2023,November,China Airlines,16950
+2023,November,Delta Air Lines,54940
+2023,November,Frontier Airlines,73046
+2023,November,Hawaiian Airlines,10132
+2023,November,JetBlue,8960
+2023,November,New Pacific,1990
+2023,November,Southwest Airlines,222240
+2023,November,United Airlines,34685
+2023,November,Volaris,14465
+2023,November,Volaris El Salvador,2970
+2023,November,All Others,0
+2023,December,aha!,0
+2023,December,Alaska Airlines,39278
+2023,December,American Airlines,82006
+2023,December,Avianca,6148
+2023,December,China Airlines,16535
+2023,December,Delta Air Lines,59194
+2023,December,Frontier Airlines,61735
+2023,December,Hawaiian Airlines,10072
+2023,December,JetBlue,9610
+2023,December,New Pacific,2253
+2023,December,Southwest Airlines,210871
+2023,December,United Airlines,31836
+2023,December,Volaris,17350
+2023,December,Volaris El Salvador,3126
+2023,December,All Others,1147
+2024,January,Alaska Airlines,27339
+2024,January,American Airlines,76982
+2024,January,Avianca,6366
+2024,January,China Airlines,18348
+2024,January,Delta Air Lines,49851
+2024,January,Frontier Airlines,41583
+2024,January,Hawaiian Airlines,10572
+2024,January,JetBlue,7614
+2024,January,New Pacific Airlines,1706
+2024,January,Southwest Airlines,180066
+2024,January,United Airlines,27807
+2024,January,Volaris,18211
+2024,January,Volaris El Salvador,2087
+2024,January,All Others,1057
+2024,February,Alaska Airlines,32461
+2024,February,American Airlines,77189
+2024,February,Avianca,4525
+2024,February,China Airlines,16498
+2024,February,Delta Air Lines,45714
+2024,February,Frontier Airlines,37986
+2024,February,Hawaiian Airlines,9521
+2024,February,JetBlue,5866
+2024,February,New Pacific Airlines,2922
+2024,February,Southwest Airlines,175896
+2024,February,United Airlines,25856
+2024,February,Volaris,15457
+2024,February,Volaris El Salvador,0
+2024,February,All Others,2
+2024,March,Alaska Airlines,40523
+2024,March,American Airlines,90653
+2024,March,Avianca,5985
+2024,March,China Airlines,18815
+2024,March,Delta Air Lines,54022
+2024,March,Frontier Airlines,67436
+2024,March,Hawaiian Airlines,10984
+2024,March,JetBlue,7878
+2024,March,New Pacific Airlines,2790
+2024,March,Southwest Airlines,210073
+2024,March,United Airlines,31581
+2024,March,Volaris,16236
+2024,March,Volaris El Salvador,24
+2024,March,All Others,0
+2024,April,Alaska Airlines,40669
+2024,April,American Airlines,92386
+2024,April,Avianca,6096
+2024,April,China Airlines,17822
+2024,April,Delta Air Lines,61092
+2024,April,Frontier Airlines,84074
+2024,April,Hawaiian Airlines,10615
+2024,April,JetBlue,7694
+2024,April,New Pacific Airlines,0
+2024,April,Southwest Airlines,212245
+2024,April,United Airlines,28366
+2024,April,Volaris,12408
+2024,April,Volaris El Salvador,0
+2024,April,All Others,0
+2024,May,Alaska Airlines,43370
+2024,May,American Airlines,97535
+2024,May,Avianca,5381
+2024,May,China Airlines,17769
+2024,May,Delta Air Lines,66759
+2024,May,Frontier Airlines,98829
+2024,May,Hawaiian Airlines,10851
+2024,May,JetBlue,10246
+2024,May,New Pacific Airlines,0
+2024,May,Southwest Airlines,221080
+2024,May,United Airlines,33241
+2024,May,Volaris,13535
+2024,May,Volaris El Salvador,0
+2024,May,All Others,65
+2024,June,Alaska Airlines,46484
+2024,June,American Airlines,97224
+2024,June,Avianca,6147
+2024,June,China Airlines,18666
+2024,June,Delta Air Lines,70948
+2024,June,Frontier Airlines,106438
+2024,June,Hawaiian Airlines,10898
+2024,June,JetBlue,10380
+2024,June,New Pacific Airlines,0
+2024,June,Southwest Airlines,229730
+2024,June,United Airlines,42948
+2024,June,Volaris,12561
+2024,June,Volaris El Salvador,0
+2024,June,All Others,305
+2024,July,Alaska Airlines,49761
+2024,July,American Airlines,98355
+2024,July,Avianca,6446
+2024,July,China Airlines,17260
+2024,July,Delta Air Lines,64131
+2024,July,Frontier Airlines,117640
+2024,July,Hawaiian Airlines,11479
+2024,July,JetBlue,11059
+2024,July,New Pacific Airlines,0
+2024,July,Southwest Airlines,224680
+2024,July,United Airlines,51591
+2024,July,Volaris,13512
+2024,July,Volaris El Salvador,0
+2024,July,All Others,408
+2024,August,Alaska Airlines,48430
+2024,August,American Airlines,98117
+2024,August,Avianca,5622
+2024,August,China Airlines,16520
+2024,August,Delta Air Lines,66888
+2024,August,Frontier Airlines,106886
+2024,August,Hawaiian Airlines,11198
+2024,August,JetBlue,9900
+2024,August,New Pacific Airlines,0
+2024,August,Southwest Airlines,218390
+2024,August,United Airlines,48551
+2024,August,Volaris,12970
+2024,August,Volaris El Salvador,0
+2024,August,All Others,0
+2024,September,Alaska Airlines,46927
+2024,September,American Airlines,92865
+2024,September,Avianca,3684
+2024,September,China Airlines,14300
+2024,September,Delta Air Lines,60289
+2024,September,Frontier Airlines,101114
+2024,September,Hawaiian Airlines,10449
+2024,September,JetBlue,9709
+2024,September,New Pacific Airlines,0
+2024,September,Southwest Airlines,209398
+2024,September,United Airlines,44565
+2024,September,Volaris,12518
+2024,September,Volaris El Salvador,0
+2024,September,All Others,197
+2024,October,Alaska Airlines,48485
+2024,October,American Airlines,99871
+2024,October,Avelo Airlines,975
+2024,October,Avianca,4040
+2024,October,China Airlines,16188
+2024,October,Delta Air Lines,65438
+2024,October,Frontier Airlines,104214
+2024,October,Hawaiian Airlines,11036
+2024,October,JetBlue,9009
+2024,October,New Pacific Airlines,0
+2024,October,Southwest Airlines,221638
+2024,October,United Airlines,49058
+2024,October,Volaris,12852
+2024,October,Volaris El Salvador,0
+2024,October,All Others,49
+2024,November,Alaska Airlines,50989
+2024,November,American Airlines,93272
+2024,November,Avelo Airlines,1057
+2024,November,Avianca,3772
+2024,November,China Airlines,18046
+2024,November,Delta Air Lines,56527
+2024,November,Frontier Airlines,93943
+2024,November,Hawaiian Airlines,10102
+2024,November,JetBlue,0
+2024,November,New Pacific Airlines,0
+2024,November,Southwest Airlines,217982
+2024,November,United Airlines,44486
+2024,November,Volaris,10535
+2024,November,Volaris El Salvador,0
+2024,November,All Others,198
+2024,December,Alaska Airlines,45908
+2024,December,American Airlines,101885
+2024,December,Avelo Airlines,1640
+2024,December,Avianca,3910
+2024,December,China Airlines,18168
+2024,December,Delta Air Lines,60259
+2024,December,Frontier Airlines,76295
+2024,December,Hawaiian Airlines,11163
+2024,December,JetBlue,0
+2024,December,New Pacific Airlines,0
+2024,December,Southwest Airlines,222759
+2024,December,United Airlines,46052
+2024,December,Volaris,15616
+2024,December,Volaris El Salvador,0
+2024,December,All Others,231
+2025,January,Alaska Airlines,41461
+2025,January,American Airlines,73062
+2025,January,Avelo Airlines,436
+2025,January,Avianca,4080
+2025,January,China Airlines,19643
+2025,January,Delta Air Lines,44404
+2025,January,Frontier Airlines,55360
+2025,January,Hawaiian Airlines,10227
+2025,January,JetBlue,0
+2025,January,New Pacific Airlines,0
+2025,January,Southwest Airlines,166948
+2025,January,United Airlines,42252
+2025,January,Volaris,16597
+2025,January,Volaris El Salvador,0
+2025,January,All Others,769
+2025,February,Alaska Airlines,33779
+2025,February,American Airlines,72619
+2025,February,Avelo Airlines,702
+2025,February,Avianca,3595
+2025,February,China Airlines,16148
+2025,February,Delta Air Lines,41053
+2025,February,Frontier Airlines,48323
+2025,February,Hawaiian Airlines,9872
+2025,February,JetBlue,0
+2025,February,New Pacific Airlines,0
+2025,February,Southwest Airlines,169227
+2025,February,United Airlines,38711
+2025,February,Volaris,16064
+2025,February,Volaris El Salvador,0
+2025,February,All Others,0
+2025,March,Alaska Airlines,39907
+2025,March,American Airlines,94453
+2025,March,Avelo Airlines,1236
+2025,March,Avianca,3656
+2025,March,China Airlines,17853
+2025,March,Delta Air Lines,50634
+2025,March,Frontier Airlines,62629
+2025,March,Hawaiian Airlines,10964
+2025,March,JetBlue,0
+2025,March,New Pacific Airlines,0
+2025,March,Southwest Airlines,218703
+2025,March,United Airlines,42150
+2025,March,Volaris,17172
+2025,March,Volaris El Salvador,0
+2025,March,All Others,262
+2025,April,Alaska Airlines,40165
+2025,April,American Airlines,91369
+2025,April,Avelo Airlines,0
+2025,April,Avianca,3475
+2025,April,China Airlines,17535
+2025,April,Delta Air Lines,58275
+2025,April,Frontier Airlines,64004
+2025,April,Hawaiian Airlines,10836
+2025,April,JetBlue,321
+2025,April,New Pacific Airlines,0
+2025,April,Southwest Airlines,222401
+2025,April,United Airlines,49485
+2025,April,Volaris,15546
+2025,April,Volaris El Salvador,0
+2025,April,All Others,2211
+2025,May,Alaska Airlines,46850
+2025,May,American Airlines,97825
+2025,May,Avelo Airlines,0
+2025,May,Avianca,3805
+2025,May,China Airlines,16967
+2025,May,Delta Air Lines,63220
+2025,May,Frontier Airlines,62924
+2025,May,Hawaiian Airlines,10881
+2025,May,JetBlue,9615
+2025,May,New Pacific Airlines,0
+2025,May,Southwest Airlines,239031
+2025,May,United Airlines,60668
+2025,May,Volaris,18029
+2025,May,Volaris El Salvador,0
+2025,May,All Others,322
+2025,June,Alaska Airlines,55483
+2025,June,American Airlines,102329
+2025,June,Avelo Airlines,0
+2025,June,Avianca,5113
+2025,June,China Airlines,16964
+2025,June,Delta Air Lines,65801
+2025,June,Frontier Airlines,69347
+2025,June,Hawaiian Airlines,4040
+2025,June,JetBlue,9557
+2025,June,New Pacific Airlines,0
+2025,June,Southwest Airlines,235598
+2025,June,Starlux Airlines,7743
+2025,June,United Airlines,68229
+2025,June,Volaris,17684
+2025,June,Volaris El Salvador,0
+2025,June,All Others,1899
+2025,July,Alaska Airlines,68060
+2025,July,American Airlines,104591
+2025,July,Avelo Airlines,0
+2025,July,Avianca,5805
+2025,July,China Airlines,16237
+2025,July,Delta Air Lines,68590
+2025,July,Frontier Airlines,73182
+2025,July,Hawaiian Airlines,0
+2025,July,JetBlue,9323
+2025,July,New Pacific Airlines,0
+2025,July,Southwest Airlines,230813
+2025,July,Starlux Airlines,7930
+2025,July,United Airlines,69987
+2025,July,Volaris,26982
+2025,July,Volaris El Salvador,0
+2025,July,All Others,412
+2025,August,Alaska Airlines,64337
+2025,August,American Airlines,96720
+2025,August,Avelo Airlines,0
+2025,August,Avianca,5491
+2025,August,China Airlines,14241
+2025,August,Delta Air Lines,64351
+2025,August,Frontier Airlines,69122
+2025,August,Hawaiian Airlines,0
+2025,August,JetBlue,10079
+2025,August,New Pacific Airlines,0
+2025,August,Southwest Airlines,221475
+2025,August,Starlux Airlines,7569
+2025,August,United Airlines,66259
+2025,August,Volaris,26649
+2025,August,Volaris El Salvador,0
+2025,August,All Others,527
